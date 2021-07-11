@@ -6,6 +6,7 @@ export default function Dashbooard() {
         <div>
             Ana SAYFA
             <Navi/>
+            
         </div>
     )
 }
